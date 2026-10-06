@@ -1,0 +1,6 @@
+numpy>=2,<3
+pandas>=3,<4
+scikit-learn>=1,<2
+matplotlib>=3,<4
+nbconvert>=7,<8
+ipykernel>=7,<8
